@@ -51,7 +51,6 @@ for (let i = 0; i < projects.length; i++) {
   link.href = projek.link;
   link.textContent = "lihat disini";
   link.className = "link";
-  link.target = "_blank";
 
   card.appendChild(img);
   card.appendChild(title);

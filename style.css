@@ -232,11 +232,9 @@ body {
   height: 150px;
   object-fit: cover;
   border-radius: 12px;
-  /* margin-bottom: 15px; */
 }
 
 .project-section .feature-card h3 {
-  /* margin: 10px 0; */
   font-size: 18px;
   font-weight: bold;
 }
